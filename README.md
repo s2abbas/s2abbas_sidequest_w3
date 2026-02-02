@@ -34,6 +34,6 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+The code was written by Dr. Karen Cochrane but she used GenAI to write the comments. I then changed some of the code using GennAI and added it in Appendix.
 
 ---
